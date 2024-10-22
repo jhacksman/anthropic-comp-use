@@ -1,6 +1,6 @@
 # Anthropic Computer Use API Demo for macOS (M2 MacBook)
 
-This project demonstrates the implementation of Anthropic's new computer use functionality API on macOS, specifically optimized for M2 MacBooks. The goal is to create a working demo by the end of the day, showcasing the API's capabilities in interacting with macOS desktop environments.
+This project demonstrates the implementation of Anthropic's new computer use functionality API on macOS, specifically optimized for M2 MacBooks. Our primary goals are to create a functional demo showcasing the API's capabilities in interacting with macOS desktop environments, optimize performance for M2 chip architecture, and provide a comprehensive guide for developers. We aim to have a working prototype ready within a week, with continuous improvements thereafter. Please note that this project is currently in active development and may undergo frequent updates.
 
 ## Project Overview
 
